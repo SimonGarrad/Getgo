@@ -1,0 +1,39 @@
+.App {
+   font-family: 'Times New Roman', Times, serif;
+   text-align: center;
+   
+}
+.slider {
+   position: relative;
+   height: 90%;
+   width: 100%;
+   box-sizing: border-box;
+   display: flex;
+   justify-content: center;
+   align-items: top;
+   margin:0;
+   padding: 0;
+}
+.slide{
+   min-width: 50%;
+   height: 50vh;
+   font-size: 20px;
+}
+img{
+   width: 100%;
+   height: 25vh ;
+   object-fit: contain;
+}
+.left-arrow,.right-arrow{
+   position: absolute;
+   z-index: 1;
+   font-size: 21px;
+   top: 19%;
+   color: #0D3722;
+}
+.left-arrow{
+   left:35%;
+}
+.right-arrow{
+   right:35%
+}

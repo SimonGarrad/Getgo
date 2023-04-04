@@ -1,0 +1,46 @@
+.App {
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  background-color: rgb(153, 173, 152);
+}
+.RideShare {
+  margin: 0;
+  padding: 0;
+  font-family: "Times New Roman";
+  background-color: rgb(153, 173, 152);
+}
+video {
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 80%;
+}
+.Train {
+  margin: 0;
+  padding: 0;
+  font-family: "Times New Roman";
+  background-color: rgb(153, 173, 152);
+}
+video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.BusJourney {
+  margin: 0;
+  padding: 0;
+  font-family: "Times New Roman";
+  background-color: rgb(153, 173, 152);
+}
+video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+/* styles.scss txt file - used for Carousel.txt */
+/* styles.scss file --> Used primarily for carousel styling  */
+
+li {
+  list-style-type: none;
+}
