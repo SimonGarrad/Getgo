@@ -5,7 +5,7 @@ App available for use here:
 
 https://codesandbox.io/s/patient-fog-bdlnid
 
-This app is a collaborative effort from a team of three during their first experience using React. CodeSandbox allowed for the code to be accessable from anywhere while making it easy to work together. My primary contributions were the conditional rendering and page layout as well as the Rideshare and API functionality. We hadn't learned about modularizing our code at that point, please forgive us!
+This app is a collaborative effort from a team of three and is our first experience using React. CodeSandbox allowed for greater accessibility and collaboration . My primary contributions were the conditional rendering as well as the Rideshare and API functionality. We hadn't learned about modularizing our code by that point, please forgive us!
 
 ![image](https://github.com/Simonomi5/MobApps/assets/119308547/74bcb498-07d2-44cd-8f6b-8f44734920c6)
 
